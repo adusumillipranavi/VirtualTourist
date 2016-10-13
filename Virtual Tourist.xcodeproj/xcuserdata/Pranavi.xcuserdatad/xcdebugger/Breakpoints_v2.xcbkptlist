@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pin.swift"
+            timestampString = "497982532.149718"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "Pin"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pin.swift"
+            timestampString = "497982536.662157"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "Pin"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pin.swift"
+            timestampString = "497982537.615755"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "init(latitude:longitude:context:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Virtual Tourist/MapViewController.swift"
+            timestampString = "498059899.781239"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "180"
+            endingLineNumber = "180"
+            landmarkName = "mapView(_:didSelect:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Photo+CoreDataClass.swift"
+            timestampString = "498064621.370961"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "Photo"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Virtual_Tourist.Photo.__deallocating_deinit"
+                  moduleName = "Virtual Tourist"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Pranavi/Desktop/Virtual%20Tourist/Photo+CoreDataClass.swift"
+                  timestampString = "498066055.804773"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Virtual_Tourist.Photo.init (entity : __ObjC.NSEntityDescription, insertInto : Swift.Optional&lt;__ObjC.NSManagedObjectContext&gt;) -&gt; Virtual_Tourist.Photo"
+                  moduleName = "Virtual Tourist"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Pranavi/Desktop/Virtual%20Tourist/Photo+CoreDataClass.swift"
+                  timestampString = "498066055.807293"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Virtual_Tourist.Photo.__allocating_init (entity : __ObjC.NSEntityDescription, insertInto : Swift.Optional&lt;__ObjC.NSManagedObjectContext&gt;) -&gt; Virtual_Tourist.Photo"
+                  moduleName = "Virtual Tourist"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Pranavi/Desktop/Virtual%20Tourist/Photo+CoreDataClass.swift"
+                  timestampString = "498066055.810365"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Photo+CoreDataClass.swift"
+            timestampString = "498064623.783254"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "init(title:image:context:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Virtual_Tourist.Photo.init (title : Swift.String, image : __ObjC.UIImage, context : __ObjC.NSManagedObjectContext) -&gt; Virtual_Tourist.Photo"
+                  moduleName = "Virtual Tourist"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Pranavi/Desktop/Virtual%20Tourist/Photo+CoreDataClass.swift"
+                  timestampString = "498066055.816154"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "38">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Virtual_Tourist.Photo.__allocating_init (title : Swift.String, image : __ObjC.UIImage, context : __ObjC.NSManagedObjectContext) -&gt; Virtual_Tourist.Photo"
+                  moduleName = "Virtual Tourist"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Pranavi/Desktop/Virtual%20Tourist/Photo+CoreDataClass.swift"
+                  timestampString = "498066055.819457"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "13">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Photo+CoreDataClass.swift"
+            timestampString = "498064625.846788"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "init(dictionary:context:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Virtual_Tourist.Photo.init (dictionary : Swift.Dictionary&lt;Swift.String, Swift.AnyObject&gt;, context : __ObjC.NSManagedObjectContext) -&gt; Virtual_Tourist.Photo"
+                  moduleName = "Virtual Tourist"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Pranavi/Desktop/Virtual%20Tourist/Photo+CoreDataClass.swift"
+                  timestampString = "498066055.825096"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Virtual_Tourist.Photo.__allocating_init (dictionary : Swift.Dictionary&lt;Swift.String, Swift.AnyObject&gt;, context : __ObjC.NSManagedObjectContext) -&gt; Virtual_Tourist.Photo"
+                  moduleName = "Virtual Tourist"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Pranavi/Desktop/Virtual%20Tourist/Photo+CoreDataClass.swift"
+                  timestampString = "498066055.82709"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
